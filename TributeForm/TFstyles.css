@@ -1,0 +1,54 @@
+#main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+}
+
+#titleSection {
+    text-align: center;
+    padding: 8px 0px 3px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+#img-div {
+    background-color: white;
+    position: relative;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 1000px;
+    margin-left: 250px;
+}
+
+#img-caption {
+    opacity: 0.8;
+    padding-bottom: 50px;
+}
+
+ul li {
+    list-style-position: inside;
+    padding: 1% 25%;
+    text-align: left;
+}
+
+.Bold {
+    font-weight: Bold;
+}
+
+#quote {
+    padding: 4% 28%;
+    text-align: left;
+    font-style: italic;
+}
+
+#name {
+    text-align: right;
+    font-style: normal
+}
